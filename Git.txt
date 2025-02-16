@@ -2,7 +2,7 @@
 
 1. mkdir my_ project & cd my_project
 2. git init
-3. touch README.md && git add.
+3. touch README.md && git add .
 4. git commit -m "Initial commit"
 5. git remote add origin ‹repository_url>
 6. git branch -M main
@@ -13,7 +13,7 @@
 # Method 2 Cloning the repository
 
 1. git clone ‹repository_url> && cd my_project
-2. touch README.md && git add.
+2. touch README.md && git add .
 3. git commit -m "Initial commit"
 4. git push
 
